@@ -1,0 +1,12 @@
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\bin\Debug\FossWebRequests.exe.config
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\bin\Debug\FossWebRequests.exe
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\bin\Debug\FossWebRequests.pdb
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.csprojAssemblyReference.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.Form1.resources
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.Properties.Resources.resources
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.csproj.GenerateResource.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.csproj.CoreCompileInputs.cache
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.exe
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\obj\Debug\FossWebRequests.pdb
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\bin\Debug\Database.mdf
+C:\Users\OleynikVlad\Documents\Visual Studio 2017\Projects\FossWebRequests\FossWebRequests\bin\Debug\Database_log.ldf
